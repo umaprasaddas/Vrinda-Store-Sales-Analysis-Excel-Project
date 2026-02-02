@@ -45,5 +45,4 @@ To improve sales in 2023, Vrinda Store should focus its marketing budget on:
 ---
 
 ## 📷 Dashboard Preview
-*(Please insert a screenshot of your actual Excel Dashboard here)*
-![Dashboard Screenshot](assets/dashboard_image.png)
+![Dashboard Screenshot](assets/Vrinda_Store_Data_Analysis.png)
